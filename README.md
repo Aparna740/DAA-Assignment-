@@ -75,7 +75,7 @@ class Solution {
 }
 
 
-Queestion 3. Kth Largest Element in an Array (Leetcode 215)
+Queestion 3. Kth Largest Element in an Array(Leetcode 215)
 
 import java.util.PriorityQueue;
 class Solution {
